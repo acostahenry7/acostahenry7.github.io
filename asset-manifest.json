@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.0e761ad5.css",
+    "main.js": "/static/js/main.3a249456.js",
+    "static/js/787.6b9a59fd.chunk.js": "/static/js/787.6b9a59fd.chunk.js",
+    "static/media/image1.png": "/static/media/image1.f7865c42e6cd7b5937ec.png",
+    "static/media/image_2.jpg": "/static/media/image_2.7d9496822cf6bb286dc8.jpg",
+    "static/media/image1.gif": "/static/media/image1.7bfe2cb11a8d17bd655b.gif",
+    "static/media/youth.png": "/static/media/youth.6f36c296ae689463484d.png",
+    "static/media/activities.png": "/static/media/activities.db3c7a1485f2059a3c41.png",
+    "static/media/children.png": "/static/media/children.b237226df141f228c125.png",
+    "static/media/women.png": "/static/media/women.c61321d15adfd593246a.png",
+    "static/media/men.png": "/static/media/men.9802edafd1a08a2eb9a4.png",
+    "static/media/worship.png": "/static/media/worship.6c58b203bc139803090b.png",
+    "static/media/projects.png": "/static/media/projects.1cd84180f845b6659239.png",
+    "static/media/plus.png": "/static/media/plus.950432eb6f08b44e40e7.png",
+    "index.html": "/index.html",
+    "main.0e761ad5.css.map": "/static/css/main.0e761ad5.css.map",
+    "main.3a249456.js.map": "/static/js/main.3a249456.js.map",
+    "787.6b9a59fd.chunk.js.map": "/static/js/787.6b9a59fd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0e761ad5.css",
+    "static/js/main.3a249456.js"
+  ]
+}
